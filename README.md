@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/ishangavidusha/ishanga" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ishangavidusha,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="208px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ishangavidusha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="208px"/>
 </a>
 
 <a href="https://github.com/ishangavidusha/ishanga" >
