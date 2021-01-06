@@ -24,7 +24,7 @@
 <a href="https://twitter.com/ishangavidusha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishangavidusha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11380026" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11380026" height="30" width="40" /></a>
 <a href="https://fb.com/ishangavidusha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ishangavidusha" height="30" width="40" /></a>
-<a href="https://instagram.com/ishangavidusha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ishangavidusha" height="30" width="40" /></a>
+<a href="https://instagram.com/ishanga_vidusha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ishangavidusha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
