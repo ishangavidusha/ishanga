@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://ishangavidusha.com" target="_blank">Ishanga Vidusha</a></h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [BeeFoods Lanka](https://github.com/BeeFoodsLanka)
-
-- 🌱 I’m currently learning **C++ and Game Development**
-
 - 👯 I’m looking to collaborate on [Flutter](https://github.com/flutter/flutter)
 
 - 💬 Ask me about **Flutter, Dart, Python**
